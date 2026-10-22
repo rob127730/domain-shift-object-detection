@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.safetensors
+Data/
+Data2/
+runs/
+Powerpoint/
+*.pptx
